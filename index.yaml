@@ -3,12 +3,12 @@ entries:
   newchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-07-27T20:24:27.0203801+05:30"
+    created: "2025-07-27T21:06:43.3522354+05:30"
     description: A Helm chart for Kubernetes
-    digest: cc4248e0f6198e2ddb94c8c749194900dc476f5d8c981f8b2b86f23cb2803890
+    digest: 87d9801050286a1ff748a96501b9c718ab891dfb7733c3b1407c69e6bf7b4515
     name: newchart
     type: application
     urls:
     - newchart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-07-27T20:24:27.0143851+05:30"
+generated: "2025-07-27T21:06:43.3388859+05:30"
